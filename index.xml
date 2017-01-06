@@ -6,24 +6,21 @@
     <description>Recent content on Norrviken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>yourname@example.com (yourname)</managingEditor>
-    <webMaster>yourname@example.com (yourname)</webMaster>
-    <copyright>(c) 2017 Grant Redgrave. Created with &lt;a href=&#39;https://appernetic.io&#39; target=&#39;_blank&#39;&gt;appernetic.io&lt;/a&gt;.</copyright>
     <lastBuildDate>Fri, 06 Jan 2017 01:14:48 +0000</lastBuildDate>
     <atom:link href="https://www.norrviken.tk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Firstpost</title>
-      <link>https://www.norrviken.tk/2017/01/06/firstpost/</link>
+      <link>https://www.norrviken.tk/post/firstpost/</link>
       <pubDate>Fri, 06 Jan 2017 01:14:48 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://www.norrviken.tk/2017/01/06/firstpost/</guid>
+      
+      <guid>https://www.norrviken.tk/post/firstpost/</guid>
       <description>
 
 &lt;h1 id=&#34;norrviken&#34;&gt;Norrviken&lt;/h1&gt;
 
 &lt;p&gt;Här kan du bada och ta det lungt!
-&lt;img src=&#34;https://res.cloudinary.com/dummcnnm7/v1483665453/eqplsqzoajezyplf1xkx&#34; alt=&#34;Ta det lungt och bada..&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;http://res.cloudinary.com/dummcnnm7/image/upload/c_scale,w_800/v1483665453/eqplsqzoajezyplf1xkx.jpg&#34; alt=&#34;Ta det lungt och bada..&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -31,7 +28,7 @@
       <title>About</title>
       <link>https://www.norrviken.tk/about/</link>
       <pubDate>Fri, 06 Jan 2017 00:55:29 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
+      
       <guid>https://www.norrviken.tk/about/</guid>
       <description>
 
