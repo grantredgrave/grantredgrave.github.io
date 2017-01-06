@@ -27,5 +27,19 @@
 </description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://www.norrviken.tk/about/</link>
+      <pubDate>Fri, 06 Jan 2017 00:55:29 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.norrviken.tk/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;This is the start of a new site for Norrviken.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
