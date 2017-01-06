@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Norrviken</title>
-    <link>https://grantredgrave.github.io/post/index.xml</link>
+    <link>https://www.norrviken.tk/post/index.xml</link>
     <description>Recent content in Post-rsses on Norrviken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,14 +10,14 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Grant Redgrave.</copyright>
     <lastBuildDate>Fri, 06 Jan 2017 01:14:48 +0000</lastBuildDate>
-    <atom:link href="https://grantredgrave.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.norrviken.tk/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Firstpost</title>
-      <link>https://grantredgrave.github.io/2017/01/06/firstpost/</link>
+      <link>https://www.norrviken.tk/2017/01/06/firstpost/</link>
       <pubDate>Fri, 06 Jan 2017 01:14:48 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>https://grantredgrave.github.io/2017/01/06/firstpost/</guid>
+      <guid>https://www.norrviken.tk/2017/01/06/firstpost/</guid>
       <description>
 
 &lt;h1 id=&#34;norrviken&#34;&gt;Norrviken&lt;/h1&gt;
