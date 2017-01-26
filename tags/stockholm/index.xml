@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norrviken</title>
-    <link>https://www.norrviken.tk/index.xml</link>
+    <link>https://www.norrviken.tk/tags/stockholm/index.xml</link>
     <description>Recent content on Norrviken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Jan 2017 07:50:13 +0000</lastBuildDate>
-    <atom:link href="https://www.norrviken.tk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.norrviken.tk/tags/stockholm/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Modern townhouse on the arlanda stockholm line</title>
@@ -26,20 +25,6 @@
       
       <guid>https://www.norrviken.tk/post/white-house-rental-arlanda-stockholm/</guid>
       <description>&lt;div class=&#34;airbnb-embed-frame&#34; data-city-link-index=&#34;0&#34; data-eb=&#34;1485416390_jGNcZG0sIeGY5SIp&#34; data-eu=&#34;ts82j+e4Fi2OT3QUJUh4PjJgMIB1wbWEX+IjGrVfTPQcyFAeESY9IzDfA2vm /kVUW5iNxPQBeTAbq1TG/Rha5qC4t25Isi+dzhU/r4NMpawgYs19qgHW5nUm GIYtrGW53PU7DRYSAycRBpQlAiKPn2nPw6/j5l0ag78nZCC0W/sjxOtPhbpU AmMQu/FkTjs11OVHh6NuwuyrN6T7hrUjWoIQdNY5j2KSFdE32pZab/EJFxtV OR0whhMbd5zGl+N5or39f3deixylxO6Y4XEWFuNUfHdOItBzbe59IiC11wCK EmjmuF/IzuuxvUm+Dzl8xSr0Kk/MCJuCA0yi2ekqEA== &#34; data-embed-source-type=&#34;p3&#34; data-trigger-source-type=&#34;p3&#34; data-listing-id=&#34;15102311&#34; data-photo-url=&#34;https://a0.muscache.com/im/pictures/e56c56c2-60b0-418c-95f3-5f729c9c82d3.jpg?aki_policy=x_large&#34; data-view=&#34;listing_frame&#34; style=&#34;max-width:600px;margin:auto;transition:height .2s;&#34;&gt;&lt;img src=&#34;https://a0.muscache.com/im/pictures/e56c56c2-60b0-418c-95f3-5f729c9c82d3.jpg?aki_policy=x_large&#34; style=&#34;max-width:100%;&#34; alt=&#34;&#34;/&gt;&lt;div&gt;&lt;a href=&#34;https://www.airbnb.se/rooms/15102311&#34; rel=&#34;nofollow&#34;&gt;&lt;h4&gt;Designat hus på Arlanda - Stockholm pendeln&lt;/h4&gt;&lt;/a&gt;&lt;div&gt;Sollentuna, Stockholms län, Sverige&lt;/div&gt;&lt;blockquote&gt;Mitt hus ligger idealiskt för affärsresenären: - Nära pendeltågsträckan mot Arlanda - Tre stopp från Arlanda flygplats (15 min) - Sju stopp från Stockholm City (22 min) - Fyra minuters gångavstånd...&lt;/blockquote&gt;&lt;/div&gt;&lt;script async=&#34;&#34; src=&#34;https://www.airbnb.se/embeddable/airbnb_jssdk&#34;&gt;&lt;/script&gt;&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.norrviken.tk/about/</link>
-      <pubDate>Fri, 06 Jan 2017 00:55:29 +0000</pubDate>
-      
-      <guid>https://www.norrviken.tk/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
-
-&lt;p&gt;This is the start of a new site for Norrviken&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
